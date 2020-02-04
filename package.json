@@ -69,7 +69,7 @@
     "typescript": "^3.0.1"
   },
   "dependencies": {
-    "element-ui": "^2.4.5",
+    "element-ui": "git+https://github.com/dev800/element-ui.git#feature/local",
     "lodash.camelcase": "^4.3.0",
     "lodash.kebabcase": "^4.1.1"
   }
